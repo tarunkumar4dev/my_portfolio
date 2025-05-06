@@ -30,9 +30,10 @@ my-portfolio/
   
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/54f1a812-c0e4-477f-9ae5-e5f5df840d98)
-![image](https://github.com/user-attachments/assets/ac577c11-1855-4ae2-bc8c-36dcf49a0338)
-![image](https://github.com/user-attachments/assets/73c7b43b-57ee-4e04-9619-9d669c3e2711)
+![image](https://github.com/user-attachments/assets/c7c0264b-803c-4339-9653-e6cb58734e0b)
+![image](https://github.com/user-attachments/assets/97b9c2e6-f430-4a56-ad97-7cba01fe1df3)
+![image](https://github.com/user-attachments/assets/86709380-9773-4e68-b03e-e9feca1e7385)
+
 
 If you'd like to connect or collaborate, feel free to reach out!
 
